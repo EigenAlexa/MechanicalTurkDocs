@@ -13,30 +13,30 @@ In response, Speaker B might ask “Where is that?” - you’d first classify t
 
 Completing a HIT should be intuitive. When you accept the HIT, you will be greeted by a page that looks like this:
 
-https://d2mxuefqeaa7sj.cloudfront.net/s_030E4349643D3F6E0982BBE5C21DF65951F46C543805F8811B43550CE3CA5BD7_1486764265578_file.png
+![img](https://d2mxuefqeaa7sj.cloudfront.net/s_030E4349643D3F6E0982BBE5C21DF65951F46C543805F8811B43550CE3CA5BD7_1486764265578_file.png)
 
 
 On the left you’ll see the entire conversation. Use this to clarify any phrase or sentence that depends on context. On the right you’ll see the labelling panel. 
 
 
-https://d2mxuefqeaa7sj.cloudfront.net/s_030E4349643D3F6E0982BBE5C21DF65951F46C543805F8811B43550CE3CA5BD7_1486765274829_file.png
+![.](https://d2mxuefqeaa7sj.cloudfront.net/s_030E4349643D3F6E0982BBE5C21DF65951F46C543805F8811B43550CE3CA5BD7_1486765274829_file.png)
 
 
 The Utterance will appear in the top text area, preceded by the speaker identity. Underneath this section, you will be met with a set of buttons with general modes of conversation as labels.
 
-https://d2mxuefqeaa7sj.cloudfront.net/s_030E4349643D3F6E0982BBE5C21DF65951F46C543805F8811B43550CE3CA5BD7_1486764372359_file.png
+![.](https://d2mxuefqeaa7sj.cloudfront.net/s_030E4349643D3F6E0982BBE5C21DF65951F46C543805F8811B43550CE3CA5BD7_1486764372359_file.png)
 
 
 When you click on a button, the list will change to a new set of buttons that represent the subcategories of this mode. Choose a subcategory and you will assign an annotated to the phrase.
 
-https://d2mxuefqeaa7sj.cloudfront.net/s_030E4349643D3F6E0982BBE5C21DF65951F46C543805F8811B43550CE3CA5BD7_1486764437802_file.png
+![.](https://d2mxuefqeaa7sj.cloudfront.net/s_030E4349643D3F6E0982BBE5C21DF65951F46C543805F8811B43550CE3CA5BD7_1486764437802_file.png)
 
 
 If you did not mean to click on a super-category of conversation, you can always go back by clicking the `Home` link.
 
 If you need to fix any mode of conversation, you can navigate back and forth using the navigation buttons above the Phrase box.
 
-https://d2mxuefqeaa7sj.cloudfront.net/s_030E4349643D3F6E0982BBE5C21DF65951F46C543805F8811B43550CE3CA5BD7_1486764981711_file.png
+![.](https://d2mxuefqeaa7sj.cloudfront.net/s_030E4349643D3F6E0982BBE5C21DF65951F46C543805F8811B43550CE3CA5BD7_1486764981711_file.png]
 
 
 Once you have labelled every phrase/sentence in the text - the `Submit HIT!` button will become clickable and you can get credit for your work!
@@ -45,7 +45,7 @@ Once you have labelled every phrase/sentence in the text - the `Submit HIT!` but
 # Guide to labeling by modes of conversation
 
 Here’s a guide for labeling the modes of conversation with examples of each mode
-
+```
     "declaration": 
         "opinionated": "I think vegetarian parents should give children the choice to be vegetarian or not."
         "fact / certain declaration" : "The capital of Alabama is Montegomery."
@@ -134,3 +134,4 @@ Here’s a guide for labeling the modes of conversation with examples of each mo
     
     "other": 
         "filler word": "Um."
+```
