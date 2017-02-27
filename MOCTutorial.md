@@ -36,7 +36,7 @@ If you did not mean to click on a super-category of conversation, you can always
 
 If you need to fix any mode of conversation, you can navigate back and forth using the navigation buttons above the Phrase box.
 
-![.](https://d2mxuefqeaa7sj.cloudfront.net/s_030E4349643D3F6E0982BBE5C21DF65951F46C543805F8811B43550CE3CA5BD7_1486764981711_file.png]
+![.](https://d2mxuefqeaa7sj.cloudfront.net/s_030E4349643D3F6E0982BBE5C21DF65951F46C543805F8811B43550CE3CA5BD7_1486764981711_file.png)
 
 
 Once you have labelled every phrase/sentence in the text - the `Submit HIT!` button will become clickable and you can get credit for your work!
